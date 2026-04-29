@@ -1,7 +1,9 @@
 # 🚀 Ren'Py L10n Master (Ren'Py 汉化大师)
 
 一款专为 Ren'Py 视觉小说打造的**工业级**自动化本地化工具。集成脱机解包、异步大模型并发、以及智能防爆翻译管线，将动辄数月的游戏汉化周期压缩至数小时。
+
 目前处于项目初期阶段，但基本功能已经就绪。已成功通过Socially Awkward、Temptation Ballad、After Class、Dawn Chorus等游戏的中文汉化测试。之后仍会继续测试并发布新版本。
+
 请尽量选择AI翻译功能，Google Translate虽然免费但非常不稳定。类似Deepseek之类的中文大模型比较适合游戏的翻译，价格比较便宜、亲民。
 
 ## ✨ 核心特性 (Features)
